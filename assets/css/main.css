@@ -1846,10 +1846,10 @@ input, select, textarea {
 
 	select {
 		background-image: url("images/bike_png.png"),url ("../../images/bike_png.png");
-		background-size: 1.25rem;
+		background-size: 6.25rem;
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
-		height: 2.75em;
+		height: 8em;
 		padding-right: 2.75em;
 		text-overflow: ellipsis;
 	}
