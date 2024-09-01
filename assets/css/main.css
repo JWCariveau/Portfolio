@@ -1845,7 +1845,7 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("images/bike.png"),url("../../images/bike.png");
+		background-image: url("images/bike6.png"),url("../../images/bike6.png");
 		background-size: 1.25rem;
 		background-repeat: no-repeat;
 		background-position: calc(100% - 1rem) center;
